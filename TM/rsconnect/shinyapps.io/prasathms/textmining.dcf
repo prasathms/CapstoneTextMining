@@ -1,0 +1,12 @@
+name: textmining
+title: TextMining
+username:
+account: prasathms
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 232154
+bundleId: 1060080
+url: https://prasathms.shinyapps.io/textmining/
+when: 1509900734.87284
+asMultiple: FALSE
+asStatic: FALSE
